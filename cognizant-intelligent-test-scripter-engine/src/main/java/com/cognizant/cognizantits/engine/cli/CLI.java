@@ -38,6 +38,8 @@ import org.json.simple.JSONValue;
  *
  *
  */
+
+//comment added
 public class CLI {
 
     private static final Logger LOG = Logger.getLogger(CLI.class.getName());
